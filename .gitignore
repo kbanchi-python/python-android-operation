@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Android Debug Bridge（adb）
+platform-tools_r33.0.3-darwin.zip
+platform-tools/
